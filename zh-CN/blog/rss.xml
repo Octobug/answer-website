@@ -4,10 +4,325 @@
         <title>Apache Answer Blog</title>
         <link>https://answer.apache.org/zh-CN/blog</link>
         <description>Apache Answer Blog</description>
-        <lastBuildDate>Wed, 30 Apr 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Nov 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[Best Stack Internal Alternatives in 2025]]></title>
+            <link>https://answer.apache.org/zh-CN/blog/best-stackoverflow-for-teams-alternatives</link>
+            <guid>https://answer.apache.org/zh-CN/blog/best-stackoverflow-for-teams-alternatives</guid>
+            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover the best Stack Internal (formerly Stack Overflow for Teams) alternatives in 2025. Learn how Apache Answer — and its hosted SaaS edition AnswerGrowth — provide a powerful, open-source approach to team Q&A and knowledge sharing.]]></description>
+            <content:encoded><![CDATA[<div class="mb-4"><img decoding="async" loading="lazy" src="https://answer.apache.org/zh-CN/assets/images/2025-11-12-cover@4x-6bb6ba15b6ad9a63b6c63cc24761638c.png" class="rounded img_RAU7" width="1280px" height="720px"></div><h3 class="anchor anchorWithStickyNavbar_loeA" id="why-teams-are-looking-for-alternatives-to-stack-internal">Why Teams Are Looking for Alternatives to Stack Internal<!-- --><a href="https://answer.apache.org/zh-CN/blog/best-stackoverflow-for-teams-alternatives#why-teams-are-looking-for-alternatives-to-stack-internal" class="hash-link" aria-label="Why Teams Are Looking for Alternatives to Stack Internal的直接链接" title="Why Teams Are Looking for Alternatives to Stack Internal的直接链接">​</a></h3>
+<!-- --><p>Stack Internal (formerly Stack Overflow for Teams) has long been a go-to solution for developer collaboration and internal Q&amp;A. However, as teams expand across departments, many are finding it <!-- --><strong>expensive</strong>, <!-- --><strong>rigid</strong>, and <!-- --><strong>less adaptable</strong> to broader organizational needs.<!-- --></p>
+<!-- --><p>Common challenges include:</p>
+<!-- --><ul>
+<!-- --><li>High per-user costs that scale poorly.</li>
+<!-- --><li>Limited customization and branding options.</li>
+<!-- --><li>Vendor lock-in — all data hosted by Stack Overflow.</li>
+<!-- --><li>Not suitable for customer-facing or non-developer communities.</li>
+<!-- --></ul>
+<!-- --><p>That’s why more organizations are turning toward <!-- --><strong>open-source or flexible SaaS Q&amp;A platforms</strong> — solutions that offer both control and collaboration.<!-- --></p>
+<!-- --><p>Among them, one project clearly stands out: <!-- --><strong>Apache Answer</strong>.<!-- --></p>
+<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="apache-answer-the-open-source-alternative-to-stack-internal">Apache Answer: The Open-Source Alternative to Stack Internal<!-- --><a href="https://answer.apache.org/zh-CN/blog/best-stackoverflow-for-teams-alternatives#apache-answer-the-open-source-alternative-to-stack-internal" class="hash-link" aria-label="Apache Answer: The Open-Source Alternative to Stack Internal的直接链接" title="Apache Answer: The Open-Source Alternative to Stack Internal的直接链接">​</a></h3>
+<!-- --><p><strong><a href="https://answer.apache.org/" target="_blank" rel="noopener noreferrer">Apache Answer</a></strong> is an open-source, community-driven Q&amp;A platform under the Apache Software Foundation. It allows organizations to create internal or external Q&amp;A spaces that mirror the best parts of Stack Overflow — while giving full control over data, customization, and integrations.<!-- --></p>
+<!-- --><p><strong>Key Features:</strong></p>
+<!-- --><ul>
+<!-- --><li><strong>Open-source and free to use</strong> — no per-user licensing fees.<!-- --></li>
+<!-- --><li><strong>Self-hosted or cloud-deployable</strong> — your data, your infrastructure.<!-- --></li>
+<!-- --><li><strong>Modern Q&amp;A experience</strong> — with tags, voting, accepted answers, and search.<!-- --></li>
+<!-- --><li><strong>Extensible APIs and integrations</strong> — fits into existing toolchains.<!-- --></li>
+<!-- --><li><strong>Multilingual support</strong> — perfect for global teams.<!-- --></li>
+<!-- --></ul>
+<!-- --><p>For those who prefer a fully managed cloud option, the same technology also powers <!-- --><strong><a href="https://answergrowth.com/?utm_source=apache_answer_blog&amp;utm_medium=blog&amp;utm_campaign=stack_overflow_alternatives" target="_blank" rel="noopener noreferrer">AnswerGrowth</a></strong>, a hosted SaaS version that simplifies deployment and maintenance.<!-- --></p>
+<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="discourse">Discourse<!-- --><a href="https://answer.apache.org/zh-CN/blog/best-stackoverflow-for-teams-alternatives#discourse" class="hash-link" aria-label="Discourse的直接链接" title="Discourse的直接链接">​</a></h3>
+<!-- --><p><strong><a href="https://discourse.org/" target="_blank" rel="noopener noreferrer">Discourse</a></strong> is one of the most popular modern forum platforms and a solid choice for community discussions. It can be self-hosted or used via a paid hosting plan.<!-- --></p>
+<!-- --><p><strong>Pros:</strong></p>
+<!-- --><ul>
+<!-- --><li>Highly customizable and extensible through plugins.</li>
+<!-- --><li>Strong moderation tools and an active open-source community.</li>
+<!-- --></ul>
+<!-- --><p><strong>Cons:</strong></p>
+<!-- --><ul>
+<!-- --><li>Forum-first design — lacks Stack Overflow-style Q&amp;A structure.</li>
+<!-- --><li>Can require technical management for self-hosted setups.</li>
+<!-- --></ul>
+<!-- --><p><strong>Best For:</strong> Public communities, developer user groups, or product discussions.<!-- --></p>
+<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="question2answer-q2a">Question2Answer (Q2A)<!-- --><a href="https://answer.apache.org/zh-CN/blog/best-stackoverflow-for-teams-alternatives#question2answer-q2a" class="hash-link" aria-label="Question2Answer (Q2A)的直接链接" title="Question2Answer (Q2A)的直接链接">​</a></h3>
+<!-- --><p><strong><a href="https://www.question2answer.org/" target="_blank" rel="noopener noreferrer">Question2Answer</a></strong> is one of the earliest open-source Q&amp;A systems and remains a simple, lightweight choice for developers.<!-- --></p>
+<!-- --><p><strong>Pros:</strong></p>
+<!-- --><ul>
+<!-- --><li>100% free and open-source.</li>
+<!-- --><li>Straightforward setup for small teams.</li>
+<!-- --></ul>
+<!-- --><p><strong>Cons:</strong></p>
+<!-- --><ul>
+<!-- --><li>Outdated UI and limited extensibility.</li>
+<!-- --><li>Minimal active development in recent years.</li>
+<!-- --></ul>
+<!-- --><p><strong>Best For:</strong> Small developer teams needing a basic self-hosted Q&amp;A tool.<!-- --></p>
+<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="answerhub">AnswerHub<!-- --><a href="https://answer.apache.org/zh-CN/blog/best-stackoverflow-for-teams-alternatives#answerhub" class="hash-link" aria-label="AnswerHub的直接链接" title="AnswerHub的直接链接">​</a></h3>
+<!-- --><p><strong><a href="https://answerhub.com/" target="_blank" rel="noopener noreferrer">AnswerHub</a></strong> is an enterprise-grade Q&amp;A and knowledge-sharing platform used by major companies such as Epic Games and Unity.<!-- --></p>
+<!-- --><p><strong>Pros:</strong></p>
+<!-- --><ul>
+<!-- --><li>Rich moderation, analytics, and permission management.</li>
+<!-- --><li>Designed for large-scale internal knowledge bases.</li>
+<!-- --></ul>
+<!-- --><p><strong>Cons:</strong></p>
+<!-- --><ul>
+<!-- --><li>High pricing; not ideal for smaller teams.</li>
+<!-- --><li>Proprietary software with limited flexibility.</li>
+<!-- --></ul>
+<!-- --><p><strong>Best For:</strong> Enterprises requiring private, large-scale developer Q&amp;A environments.<!-- --></p>
+<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="comparison-best-stack-internal-alternatives-in-2025">Comparison: Best Stack Internal Alternatives in 2025<!-- --><a href="https://answer.apache.org/zh-CN/blog/best-stackoverflow-for-teams-alternatives#comparison-best-stack-internal-alternatives-in-2025" class="hash-link" aria-label="Comparison: Best Stack Internal Alternatives in 2025的直接链接" title="Comparison: Best Stack Internal Alternatives in 2025的直接链接">​</a></h3>
+<!-- --><table><thead><tr><th>Product</th><th>Type</th><th>Pricing</th><th>Key Strength</th><th>Ideal For</th></tr></thead><tbody><tr><td><strong>Apache Answer</strong></td><td>Open Source</td><td>Free</td><td>Open, flexible, modern UI</td><td>Self-hosted teams</td></tr><tr><td><strong>AnswerGrowth</strong></td><td>SaaS (based on Apache Answer)</td><td>From $19/month</td><td>Fully managed, no hosting</td><td>Companies &amp; Startups</td></tr><tr><td>Stack Internal</td><td>SaaS</td><td>Free + $6.5/user/month</td><td>Familiar dev experience</td><td>Developer teams</td></tr><tr><td>Discourse</td><td>Open Source / SaaS</td><td>Free + $20/month</td><td>Forum-style discussions</td><td>Communities</td></tr><tr><td>Question2Answer</td><td>Open Source</td><td>Free</td><td>Lightweight, developer-friendly</td><td>Small dev teams</td></tr><tr><td>AnswerHub</td><td>Enterprise</td><td>$$$</td><td>Enterprise-grade features</td><td>Large organizations</td></tr></tbody></table>
+<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="how-to-choose-the-right-alternative">How to Choose the Right Alternative<!-- --><a href="https://answer.apache.org/zh-CN/blog/best-stackoverflow-for-teams-alternatives#how-to-choose-the-right-alternative" class="hash-link" aria-label="How to Choose the Right Alternative的直接链接" title="How to Choose the Right Alternative的直接链接">​</a></h3>
+<!-- --><p>When comparing alternatives, consider:</p>
+<!-- --><ol>
+<!-- --><li><strong>Hosting preference:</strong> Self-hosted (control) vs SaaS (convenience).<!-- --></li>
+<!-- --><li><strong>Budget:</strong> Open-source vs per-user pricing.<!-- --></li>
+<!-- --><li><strong>Integrations:</strong> Slack, GitHub, Jira, or custom tools.<!-- --></li>
+<!-- --><li><strong>Customization:</strong> Theming, workflows, and branding.<!-- --></li>
+<!-- --><li><strong>Use case:</strong> Developer collaboration, internal knowledge, or customer support.<!-- --></li>
+<!-- --></ol>
+<!-- --><p>If you want <!-- --><strong>open-source flexibility and transparency</strong>, Apache Answer is the clear leader. If you prefer a managed solution, <!-- --><strong>AnswerGrowth</strong> offers the same foundation as a fully hosted service.<!-- --></p>
+<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="conclusion">Conclusion<!-- --><a href="https://answer.apache.org/zh-CN/blog/best-stackoverflow-for-teams-alternatives#conclusion" class="hash-link" aria-label="Conclusion的直接链接" title="Conclusion的直接链接">​</a></h3>
+<!-- --><p>Stack Internal set the standard for collaborative knowledge sharing, but teams today demand more control, adaptability, and affordability.</p>
+<!-- --><p><strong>Apache Answer</strong> delivers all of these — a community-driven, open-source alternative that empowers teams to own their knowledge and build tailored Q&amp;A experiences.<!-- --></p>
+<!-- --><p>And for organizations that prefer a managed environment, <!-- --><strong>AnswerGrowth</strong> provides the same technology in a convenient SaaS form.<!-- --></p>
+<!-- --><blockquote>
+<!-- --><p>🌐 Explore Apache Answer: <!-- --><a href="https://answer.apache.org/" target="_blank" rel="noopener noreferrer">answer.apache.org</a></p>
+<!-- --><p>☁️ Try the hosted edition (AnswerGrowth): <!-- --><a href="https://answergrowth.com/?utm_source=apache_answer_blog&amp;utm_medium=blog&amp;utm_campaign=stack_overflow_alternatives" target="_blank" rel="noopener noreferrer">answergrowth.com</a></p>
+<!-- --></blockquote>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Apache Answer 1.7.0: Quicklinks 插件与布局改进]]></title>
+            <link>https://answer.apache.org/zh-CN/blog/answer-1.7.0-release</link>
+            <guid>https://answer.apache.org/zh-CN/blog/answer-1.7.0-release</guid>
+            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Answer 1.7.0 引入了 Quicklinks 插件、布局改进、schemaForm 增强、响应式优化以及重要的错误修复。]]></description>
+            <content:encoded><![CDATA[<div class="mb-4"><img decoding="async" loading="lazy" src="https://answer.apache.org/zh-CN/assets/images/2025-11-05-cover@4x-5aedee5ff9893399fa7a79bcf1e8ca45.png" class="rounded img_RAU7" width="1280px" height="720px"></div><p>我们很高兴宣布 <!-- --><strong>Apache Answer v1.7.0</strong> 正式发布！本版本为插件生态系统、用户界面和整体用户体验带来了显著改进。感谢所有使本次发布成为可能的贡献者。<!-- --></p>
+<!-- --><div class="theme-admonition theme-admonition-caution admonition_inHR alert alert--warning"><div class="admonitionHeading_piGE"><span class="admonitionIcon_ROqA"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>警告<!-- --></div><div class="admonitionContent_BA39"><p><strong>重要提示</strong>：我们在本版本中进行了大量布局更改。如果您修改了页面布局，可能会产生冲突。请在升级前记得备份您的旧数据。<!-- --></p></div></div>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="新功能">新功能<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.7.0-release#%E6%96%B0%E5%8A%9F%E8%83%BD" class="hash-link" aria-label="新功能的直接链接" title="新功能的直接链接">​</a></h2>
+<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="quicklinks-插件">Quicklinks 插件<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.7.0-release#quicklinks-%E6%8F%92%E4%BB%B6" class="hash-link" aria-label="Quicklinks 插件的直接链接" title="Quicklinks 插件的直接链接">​</a></h3>
+<!-- --><p>Quicklinks 插件现已可用并默认集成，为管理员提供了强大的导航管理能力。该插件允许您创建自定义快速链接，帮助用户更高效地浏览您的社区。</p>
+<!-- --><ul>
+<!-- --><li><strong>新功能</strong>：Quicklinks 插件 (<!-- --><a href="https://github.com/apache/answer-plugins/issues/269" target="_blank" rel="noopener noreferrer">apache/answer-plugins#269</a>) 由 <!-- --><a href="https://github.com/shuashuai" target="_blank" rel="noopener noreferrer">@shuashuai</a> 贡献<!-- --></li>
+<!-- --><li><strong>新功能</strong>：默认集成 Quicklinks 插件 (<!-- --><a href="https://github.com/apache/answer/issues/1405" target="_blank" rel="noopener noreferrer">#1405</a>) 由 <!-- --><a href="https://github.com/LinkinStars" target="_blank" rel="noopener noreferrer">@LinkinStars</a> 贡献<!-- --></li>
+<!-- --></ul>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="改进">改进<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.7.0-release#%E6%94%B9%E8%BF%9B" class="hash-link" aria-label="改进的直接链接" title="改进的直接链接">​</a></h2>
+<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="表单与-schema-增强">表单与 Schema 增强<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.7.0-release#%E8%A1%A8%E5%8D%95%E4%B8%8E-schema-%E5%A2%9E%E5%BC%BA" class="hash-link" aria-label="表单与 Schema 增强的直接链接" title="表单与 Schema 增强的直接链接">​</a></h3>
+<!-- --><ul>
+<!-- --><li><strong>schemaForm 支持 tagSelector 组件</strong> (<!-- --><a href="https://github.com/apache/answer/pull/1380" target="_blank" rel="noopener noreferrer">#1380</a>) 由 <!-- --><a href="https://github.com/shuashuai" target="_blank" rel="noopener noreferrer">@shuashuai</a> 贡献<!-- --><br>
+<!-- -->插件开发者现在可以在 schemaForm 中使用 tagSelector 组件，使创建具有标签选择功能的表单变得更加容易。<!-- --></li>
+<!-- --></ul>
+<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="布局与-ui-改进">布局与 UI 改进<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.7.0-release#%E5%B8%83%E5%B1%80%E4%B8%8E-ui-%E6%94%B9%E8%BF%9B" class="hash-link" aria-label="布局与 UI 改进的直接链接" title="布局与 UI 改进的直接链接">​</a></h3>
+<!-- --><ul>
+<!-- --><li>
+<!-- --><p><strong>问题详情页不再显示置顶状态</strong> (<!-- --><a href="https://github.com/apache/answer/pull/1393" target="_blank" rel="noopener noreferrer">#1393</a>) 由 <!-- --><a href="https://github.com/shuashuai" target="_blank" rel="noopener noreferrer">@shuashuai</a> 贡献<!-- --><br>
+<!-- -->更简洁的问题详情页，移除了冗余的置顶状态指示器。<!-- --></p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p><strong>统一问题 URL 路径</strong> (<!-- --><a href="https://github.com/apache/answer/pull/1392" target="_blank" rel="noopener noreferrer">#1392</a>) 由 <!-- --><a href="https://github.com/shuashuai" target="_blank" rel="noopener noreferrer">@shuashuai</a> 贡献<!-- --><br>
+<!-- -->统一的问题 URL 结构改善了 SEO 和用户体验。<!-- --></p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p><strong>相关推荐在无内容时显示空白区域</strong> (<!-- --><a href="https://github.com/apache/answer/pull/1394" target="_blank" rel="noopener noreferrer">#1394</a>) 由 <!-- --><a href="https://github.com/Dinesht04" target="_blank" rel="noopener noreferrer">@Dinesht04</a> 贡献<!-- --><br>
+<!-- -->当没有相关内容时，提供更好的视觉反馈。<!-- --></p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p><strong>优化响应式布局</strong> (<!-- --><a href="https://github.com/apache/answer/pull/1406" target="_blank" rel="noopener noreferrer">#1406</a>) 由 <!-- --><a href="https://github.com/shuashuai" target="_blank" rel="noopener noreferrer">@shuashuai</a> 贡献<!-- --><br>
+<!-- -->通过改进的响应式设计，增强了移动设备和平板电脑的体验。<!-- --></p>
+<!-- --></li>
+<!-- --></ul>
+<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="用户体验增强">用户体验增强<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.7.0-release#%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E5%A2%9E%E5%BC%BA" class="hash-link" aria-label="用户体验增强的直接链接" title="用户体验增强的直接链接">​</a></h3>
+<!-- --><ul>
+<!-- --><li>
+<!-- --><p><strong>创建新问题时标签可选</strong> (<!-- --><a href="https://github.com/apache/answer/pull/1177" target="_blank" rel="noopener noreferrer">#1177</a>) 由 <!-- --><a href="https://github.com/Dinesht04" target="_blank" rel="noopener noreferrer">@Dinesht04</a> 贡献<!-- --><br>
+<!-- -->用户现在可以创建不带标签的问题，为问题创建提供更大的灵活性。<!-- --></p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p><strong>问题"正文"部分可选</strong> (<!-- --><a href="https://github.com/apache/answer/pull/842" target="_blank" rel="noopener noreferrer">#842</a>) 由 <!-- --><a href="https://github.com/Dinesht04" target="_blank" rel="noopener noreferrer">@Dinesht04</a> 贡献<!-- --><br>
+<!-- -->问题可以仅使用标题创建，允许更简单的问题格式。<!-- --></p>
+<!-- --></li>
+<!-- --></ul>
+<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="命令行工具增强">命令行工具增强<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.7.0-release#%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7%E5%A2%9E%E5%BC%BA" class="hash-link" aria-label="命令行工具增强的直接链接" title="命令行工具增强的直接链接">​</a></h3>
+<!-- --><ul>
+<!-- --><li><strong>命令行工具添加 resetPassword 选项</strong> (<!-- --><a href="https://github.com/apache/answer/pull/1400" target="_blank" rel="noopener noreferrer">#1400</a>, <!-- --><a href="https://github.com/apache/answer/pull/1308" target="_blank" rel="noopener noreferrer">#1308</a>) 由 <!-- --><a href="https://github.com/sosyz" target="_blank" rel="noopener noreferrer">@sosyz</a> 贡献<!-- --><br>
+<!-- -->管理员现在可以直接从命令行重置用户密码，提高了账户管理能力。<!-- --></li>
+<!-- --></ul>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="错误修复">错误修复<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.7.0-release#%E9%94%99%E8%AF%AF%E4%BF%AE%E5%A4%8D" class="hash-link" aria-label="错误修复的直接链接" title="错误修复的直接链接">​</a></h2>
+<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="图片与媒体修复">图片与媒体修复<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.7.0-release#%E5%9B%BE%E7%89%87%E4%B8%8E%E5%AA%92%E4%BD%93%E4%BF%AE%E5%A4%8D" class="hash-link" aria-label="图片与媒体修复的直接链接" title="图片与媒体修复的直接链接">​</a></h3>
+<!-- --><ul>
+<!-- --><li><strong>修复：答案中的图片未正确调整大小</strong> (<!-- --><a href="https://github.com/apache/answer/pull/1404" target="_blank" rel="noopener noreferrer">#1404</a>) 由 <!-- --><a href="https://github.com/shuashuai" target="_blank" rel="noopener noreferrer">@shuashuai</a> 贡献<!-- --><br>
+<!-- -->答案中的图片现在可以根据容器尺寸正确调整大小。<!-- --></li>
+<!-- --></ul>
+<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="通知系统修复">通知系统修复<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.7.0-release#%E9%80%9A%E7%9F%A5%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D" class="hash-link" aria-label="通知系统修复的直接链接" title="通知系统修复的直接链接">​</a></h3>
+<!-- --><ul>
+<!-- --><li>
+<!-- --><p><strong>修复：新问题通知消息未获取 trigger_user</strong> (<!-- --><a href="https://github.com/apache/answer/pull/1384" target="_blank" rel="noopener noreferrer">#1384</a>, <!-- --><a href="https://github.com/apache/answer/pull/1385" target="_blank" rel="noopener noreferrer">#1385</a>) 由 <!-- --><a href="https://github.com/light-white" target="_blank" rel="noopener noreferrer">@light-white</a> 贡献<!-- --><br>
+<!-- -->通知消息现在正确包含触发用户信息。<!-- --></p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p><strong>修复：新问题通知消息未获取新标签</strong> (<!-- --><a href="https://github.com/apache/answer/pull/1382" target="_blank" rel="noopener noreferrer">#1382</a>, <!-- --><a href="https://github.com/apache/answer/pull/1383" target="_blank" rel="noopener noreferrer">#1383</a>) 由 <!-- --><a href="https://github.com/light-white" target="_blank" rel="noopener noreferrer">@light-white</a> 贡献<!-- --><br>
+<!-- -->当问题添加标签时，通知现在正确包含新标签信息。<!-- --></p>
+<!-- --></li>
+<!-- --></ul>
+<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="用户与认证修复">用户与认证修复<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.7.0-release#%E7%94%A8%E6%88%B7%E4%B8%8E%E8%AE%A4%E8%AF%81%E4%BF%AE%E5%A4%8D" class="hash-link" aria-label="用户与认证修复的直接链接" title="用户与认证修复的直接链接">​</a></h3>
+<!-- --><ul>
+<!-- --><li><strong>修复：同步用户名字符</strong> (<!-- --><a href="https://github.com/apache/answer/pull/1397" target="_blank" rel="noopener noreferrer">#1397</a>) 由 <!-- --><a href="https://github.com/sy-records" target="_blank" rel="noopener noreferrer">@sy-records</a> 贡献<!-- --><br>
+<!-- -->已解决用户名字符同步问题。<!-- --></li>
+<!-- --></ul>
+<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="主题与样式修复">主题与样式修复<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.7.0-release#%E4%B8%BB%E9%A2%98%E4%B8%8E%E6%A0%B7%E5%BC%8F%E4%BF%AE%E5%A4%8D" class="hash-link" aria-label="主题与样式修复的直接链接" title="主题与样式修复的直接链接">​</a></h3>
+<!-- --><ul>
+<!-- --><li><strong>修复：深色模式中代码块背景颜色错误</strong> (<!-- --><a href="https://github.com/apache/answer/pull/1368" target="_blank" rel="noopener noreferrer">#1368</a>) 由 <!-- --><a href="https://github.com/Dinesht04" target="_blank" rel="noopener noreferrer">@Dinesht04</a> 贡献<!-- --><br>
+<!-- -->代码块现在在深色模式下正确显示，具有正确的背景颜色。<!-- --></li>
+<!-- --></ul>
+<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="插件系统修复">插件系统修复<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.7.0-release#%E6%8F%92%E4%BB%B6%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D" class="hash-link" aria-label="插件系统修复的直接链接" title="插件系统修复的直接链接">​</a></h3>
+<!-- --><ul>
+<!-- --><li><strong>修复：插件安装时构建失败，无法复制 ui 文件</strong> (<!-- --><a href="https://github.com/apache/answer/pull/1376" target="_blank" rel="noopener noreferrer">#1376</a>) 由 <!-- --><a href="https://github.com/hgaol" target="_blank" rel="noopener noreferrer">@hgaol</a> 贡献<!-- --><br>
+<!-- -->插件安装现在在构建过程中正确复制 UI 文件。<!-- --></li>
+<!-- --></ul>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="新贡献者">新贡献者<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.7.0-release#%E6%96%B0%E8%B4%A1%E7%8C%AE%E8%80%85" class="hash-link" aria-label="新贡献者的直接链接" title="新贡献者的直接链接">​</a></h2>
+<!-- --><p>我们很高兴欢迎新贡献者加入 Apache Answer 社区：</p>
+<!-- --><ul>
+<!-- --><li><a href="https://github.com/light-white" target="_blank" rel="noopener noreferrer">@light-white</a> 在 <!-- --><a href="https://github.com/apache/answer/pull/1382" target="_blank" rel="noopener noreferrer">#1382</a> 中做出了首次贡献<!-- --></li>
+<!-- --></ul>
+<!-- --><p>感谢您加入我们的社区并为 Apache Answer 做出贡献！</p>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="贡献者致谢">贡献者致谢<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.7.0-release#%E8%B4%A1%E7%8C%AE%E8%80%85%E8%87%B4%E8%B0%A2" class="hash-link" aria-label="贡献者致谢的直接链接" title="贡献者致谢的直接链接">​</a></h2>
+<!-- --><p>感谢所有为 v1.7.0 做出贡献的开发者和社区成员！你们的代码贡献、问题报告、文档改进和测试工作使本次发布成为可能。</p>
+<!-- --><p>特别感谢我们的贡献者（按字母顺序）：</p>
+<!-- --><ul>
+<!-- --><li><a href="https://github.com/Dinesht04" target="_blank" rel="noopener noreferrer">@Dinesht04</a></li>
+<!-- --><li><a href="https://github.com/hgaol" target="_blank" rel="noopener noreferrer">@hgaol</a></li>
+<!-- --><li><a href="https://github.com/light-white" target="_blank" rel="noopener noreferrer">@light-white</a></li>
+<!-- --><li><a href="https://github.com/LinkinStars" target="_blank" rel="noopener noreferrer">@LinkinStars</a></li>
+<!-- --><li><a href="https://github.com/shuashuai" target="_blank" rel="noopener noreferrer">@shuashuai</a></li>
+<!-- --><li><a href="https://github.com/sosyz" target="_blank" rel="noopener noreferrer">@sosyz</a></li>
+<!-- --><li><a href="https://github.com/sy-records" target="_blank" rel="noopener noreferrer">@sy-records</a></li>
+<!-- --></ul>
+<!-- --><p>以及所有参与讨论、测试和反馈的社区成员。</p>
+<!-- --><p>完整的变更日志，请访问 <!-- --><a href="https://github.com/apache/answer/compare/v1.6.0...v1.7.0" target="_blank" rel="noopener noreferrer">GitHub 对比页面</a>。<!-- --></p>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="加入我们">加入我们<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.7.0-release#%E5%8A%A0%E5%85%A5%E6%88%91%E4%BB%AC" class="hash-link" aria-label="加入我们的直接链接" title="加入我们的直接链接">​</a></h2>
+<!-- --><p>Apache Answer 是一个开源项目，我们欢迎各种形式的贡献：</p>
+<!-- --><ul>
+<!-- --><li><strong>代码贡献</strong>：在 <!-- --><a href="https://github.com/apache/answer" target="_blank" rel="noopener noreferrer">GitHub</a> 上提交 PR<!-- --></li>
+<!-- --><li><strong>问题报告</strong>：报告错误或提出功能建议<!-- --></li>
+<!-- --><li><strong>文档改进</strong>：帮助改进文档和翻译<!-- --></li>
+<!-- --><li><strong>社区支持</strong>：在论坛和讨论中帮助其他用户<!-- --></li>
+<!-- --></ul>
+<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="联系方式">联系方式<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.7.0-release#%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F" class="hash-link" aria-label="联系方式的直接链接" title="联系方式的直接链接">​</a></h3>
+<!-- --><ul>
+<!-- --><li><strong>邮件列表</strong>：<!-- --><a href="mailto:dev@answer.apache.org" target="_blank" rel="noopener noreferrer">dev@answer.apache.org</a></li>
+<!-- --><li><strong>GitHub</strong>：<!-- --><a href="https://github.com/apache/answer" target="_blank" rel="noopener noreferrer">apache/answer</a></li>
+<!-- --><li><strong>官方网站</strong>：<!-- --><a href="https://answer.apache.org/" target="_blank" rel="noopener noreferrer">answer.apache.org</a></li>
+<!-- --><li><strong>文档</strong>：<!-- --><a href="https://answer.apache.org/docs/" target="_blank" rel="noopener noreferrer">answer.apache.org/docs</a></li>
+<!-- --></ul>
+<!-- --><p>让我们一起构建更好的 Q&amp;A 平台！</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Apache Answer 1.6.0: Custom Suspensions, Smoother UI & Critical Fixes]]></title>
+            <link>https://answer.apache.org/zh-CN/blog/answer-1.6.0-release</link>
+            <guid>https://answer.apache.org/zh-CN/blog/answer-1.6.0-release</guid>
+            <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Answer 1.6.0 Introduces a new feature allowing administrators to customize the pause duration & Key Bug Fixes]]></description>
+            <content:encoded><![CDATA[<div class="mb-4"><img decoding="async" loading="lazy" src="https://answer.apache.org/zh-CN/assets/images/2025-07-23-cover@4x-b6021aee796b1a28612f4ffc33fdbd11.png" class="rounded img_RAU7" width="1280px" height="720px"></div><p>We're thrilled to announce our latest release, packed with new features, meaningful enhancements, and critical bug fixes! Here’s what’s new:</p>
+<!-- --><hr>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="-new-features">✨ New Features<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.6.0-release#-new-features" class="hash-link" aria-label="✨ New Features的直接链接" title="✨ New Features的直接链接">​</a></h2>
+<!-- --><ul>
+<!-- --><li><strong>Customizable Suspension Durations</strong><br>
+<!-- -->Admins can now define custom suspension periods for users, offering greater flexibility in moderation.<!-- --><br>
+<!-- --><em>(Thanks @shuashuai, @LinkinStars | #1361)</em></li>
+<!-- --></ul>
+<!-- --><hr>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="️-improvements">⚙️ Improvements<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.6.0-release#%EF%B8%8F-improvements" class="hash-link" aria-label="⚙️ Improvements的直接链接" title="⚙️ Improvements的直接链接">​</a></h2>
+<!-- --><ul>
+<!-- --><li><strong>Refined Search Results</strong><br>
+<!-- -->Reduced ambiguity in search outputs for clearer navigation.<!-- --><br>
+<!-- --><em>(Thanks @sy-records | #1351)</em></li>
+<!-- --><li><strong>Streamlined Admin Interface</strong><br>
+<!-- -->Relocated "Settings → Users" section to the "Interface" tab for better organization.<!-- --><br>
+<!-- --><em>(Thanks @shuashuai, @LinkinStars | #1360)</em></li>
+<!-- --><li><strong>Enhanced Content Styling</strong><br>
+<!-- -->Improved visual design of <!-- --><code>&lt;hr&gt;</code> tags within main content areas.<!-- --><br>
+<!-- --><em>(Thanks @shuashuai | #1364)</em></li>
+<!-- --></ul>
+<!-- --><hr>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="-bug-fixes">🐞 Bug Fixes<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.6.0-release#-bug-fixes" class="hash-link" aria-label="🐞 Bug Fixes的直接链接" title="🐞 Bug Fixes的直接链接">​</a></h2>
+<!-- --><ul>
+<!-- --><li><strong>System Stability Fix</strong><br>
+<!-- -->Resolved an issue causing unexpected software halts during abnormal events.<!-- --><br>
+<!-- --><em>(Thanks @LinkinStars | #1356)</em></li>
+<!-- --><li><strong>UI Consistency Update</strong><br>
+<!-- -->Fixed dark-themed dropdown menus in the navbar to align with UI standards.<!-- --><br>
+<!-- --><em>(Thanks @shuashuai | #1355)</em></li>
+<!-- --></ul>
+<!-- --><hr>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="️-thanks-to-our-contributors">❤️ Thanks to Our Contributors<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.6.0-release#%EF%B8%8F-thanks-to-our-contributors" class="hash-link" aria-label="❤️ Thanks to Our Contributors的直接链接" title="❤️ Thanks to Our Contributors的直接链接">​</a></h2>
+<!-- --><p>A huge thank you to all the contributors who helped improve this release (sorted by GitHub ID):<!-- --><br>
+<!-- --><a href="https://github.com/LinkinStars" target="_blank" rel="noopener noreferrer">@LinkinStars</a>, <!-- --><a href="https://github.com/shuashuai" target="_blank" rel="noopener noreferrer">@shuashuai</a>, <!-- --><a href="https://github.com/sy-records" target="_blank" rel="noopener noreferrer">@sy-records</a></p>
+<!-- --><p>Your contributions make this project better with every update! 🚀</p>
+<!-- --><hr>
+<!-- --><p>These updates reflect our commitment to a smoother, more intuitive experience. Thank you to our contributors and users for your ongoing support! 🚀</p>
+<!-- --><p><em>Stay tuned for more enhancements!</em></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Apache Answer 1.5.1: Now Available with Improvements and Fixes]]></title>
+            <link>https://answer.apache.org/zh-CN/blog/answer-1.5.1-release</link>
+            <guid>https://answer.apache.org/zh-CN/blog/answer-1.5.1-release</guid>
+            <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Answer 1.5.1 Enhanced Navigation, Admin Menu Improvements & Key Bug Fixes]]></description>
+            <content:encoded><![CDATA[<div class="mb-4"><img decoding="async" loading="lazy" src="https://answer.apache.org/zh-CN/assets/images/2025-06-03-cover@4x-ff0841cf6939470e4464d7e4699c61ad.png" class="rounded img_RAU7" width="1280px" height="720px"></div><p>We're excited to announce the release of version <!-- --><strong>1.5.1</strong>! This update brings several improvements and bug fixes to enhance usability and stability. Below are the key changes in this release.<!-- --></p>
+<!-- --><hr>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="-improvements">🔧 Improvements<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.5.1-release#-improvements" class="hash-link" aria-label="🔧 Improvements的直接链接" title="🔧 Improvements的直接链接">​</a></h2>
+<!-- --><ul>
+<!-- --><li>
+<!-- --><p><strong>Separate Background Color for Navigation</strong><br>
+<!-- -->The navigation bar now has a distinct background color for better visual separation and improved user experience. <!-- --><em>(Thanks @shuashuai &amp; @LinkinStars <!-- --><a href="https://github.com/apache/answer/pull/1346" target="_blank" rel="noopener noreferrer">#1346</a>)<!-- --></em></p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p><strong>Enhanced Admin Menu</strong><br>
+<!-- -->The admin menu has been refined for better organization and usability. <!-- --><em>(Thanks @shuashuai <!-- --><a href="https://github.com/apache/answer/pull/1345" target="_blank" rel="noopener noreferrer">#1345</a>)<!-- --></em></p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p><strong>Refined Command Usage Statements</strong><br>
+<!-- -->Command-line tool usage descriptions have been improved for clarity. <!-- --><em>(Thanks @Octobug <!-- --><a href="https://github.com/apache/answer/pull/1330" target="_blank" rel="noopener noreferrer">#1330</a>)<!-- --></em></p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p><strong>Comprehensive Tests for KV Storage Plugin</strong><br>
+<!-- -->Added thorough testing for the key-value storage plugin to ensure reliability. <!-- --><em>(Thanks @sosyz <!-- --><a href="https://github.com/apache/answer/pull/1344" target="_blank" rel="noopener noreferrer">#1344</a>)<!-- --></em></p>
+<!-- --></li>
+<!-- --></ul>
+<!-- --><hr>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="-bug-fixes">🐞 Bug Fixes<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.5.1-release#-bug-fixes" class="hash-link" aria-label="🐞 Bug Fixes的直接链接" title="🐞 Bug Fixes的直接链接">​</a></h2>
+<!-- --><ul>
+<!-- --><li>
+<!-- --><p><strong>Google Login Users Losing Image Access</strong><br>
+<!-- -->Fixed an issue where users logging in via Google connector couldn't access images. <!-- --><em>(Thanks @Giorgio-Bonvicini-R4P <!-- --><a href="https://github.com/apache/answer/pull/1334" target="_blank" rel="noopener noreferrer">#1334</a>)<!-- --></em></p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p><strong>Username Minimum Length Inconsistency</strong><br>
+<!-- -->Resolved a mismatch where the admin panel still enforced a 4-character minimum despite the setting being reduced to 2. <!-- --><em>(Thanks @sy-records <!-- --><a href="https://github.com/apache/answer/pull/1341" target="_blank" rel="noopener noreferrer">#1341</a>)<!-- --></em></p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p><strong>Code Snippet Layout Breakage</strong><br>
+<!-- -->Fixed a bug where code snippets could disrupt the page layout. <!-- --><em>(Thanks @shuashuai <!-- --><a href="https://github.com/apache/answer/pull/1329" target="_blank" rel="noopener noreferrer">#1329</a>)<!-- --></em></p>
+<!-- --></li>
+<!-- --><li>
+<!-- --><p><strong>Image Placement When Copying Mixed Content</strong><br>
+<!-- -->Corrected an issue where pasted images would always appear at the end of copied text-and-image content. <!-- --><em>(Thanks @shuashuai)</em></p>
+<!-- --></li>
+<!-- --></ul>
+<!-- --><hr>
+<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="️-thanks-to-our-contributors">❤️ Thanks to Our Contributors<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.5.1-release#%EF%B8%8F-thanks-to-our-contributors" class="hash-link" aria-label="❤️ Thanks to Our Contributors的直接链接" title="❤️ Thanks to Our Contributors的直接链接">​</a></h2>
+<!-- --><p>A huge thank you to all the contributors who helped improve this release (sorted by GitHub ID):<!-- --><br>
+<!-- --><a href="https://github.com/Giorgio-Bonvicini-R4P" target="_blank" rel="noopener noreferrer">@Giorgio-Bonvicini-R4P</a>, <!-- --><a href="https://github.com/LinkinStars" target="_blank" rel="noopener noreferrer">@LinkinStars</a>, <!-- --><a href="https://github.com/Octobug" target="_blank" rel="noopener noreferrer">@Octobug</a>, <!-- --><a href="https://github.com/shuashuai" target="_blank" rel="noopener noreferrer">@shuashuai</a>, <!-- --><a href="https://github.com/sosyz" target="_blank" rel="noopener noreferrer">@sosyz</a>, <!-- --><a href="https://github.com/sy-records" target="_blank" rel="noopener noreferrer">@sy-records</a></p>
+<!-- --><p>Your contributions make this project better with every update! 🚀</p>
+<!-- --><hr>
+<!-- --><p><strong>Upgrade now</strong> to enjoy these improvements and fixes! If you encounter any issues, please report them on <!-- --><a href="https://github.com/apache/answer/issues" target="_blank" rel="noopener noreferrer">GitHub</a>.<!-- --></p>
+<!-- --><p>Happy browsing! 🎉</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Answer 1.5.0: 全新侧边栏布局与标签合并功能]]></title>
             <link>https://answer.apache.org/zh-CN/blog/answer-1.5.0-release</link>
@@ -52,7 +367,7 @@
             <guid>https://answer.apache.org/zh-CN/blog/apache-answer-1.4.5-release</guid>
             <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Enhancing Q&A workflows with card/compact views, secure collaboration, and precise Markdown editing.]]></description>
-            <content:encoded><![CDATA[<div class="mb-4"><img decoding="async" loading="lazy" src="data:image/png;base64,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" class="rounded img_RAU7" width="1280px" height="720px"></div><h2 class="anchor anchorWithStickyNavbar_loeA" id="-new-features">🎉 New Features<!-- --><a href="https://answer.apache.org/zh-CN/blog/apache-answer-1.4.5-release#-new-features" class="hash-link" aria-label="🎉 New Features的直接链接" title="🎉 New Features的直接链接">​</a></h2>
+            <content:encoded><![CDATA[<div class="mb-4"><img decoding="async" loading="lazy" src="https://answer.apache.org/zh-CN/assets/images/2025-03-24-cover@4x-d0eab414140330072803a0a8637f6b6d.png" class="rounded img_RAU7" width="1280px" height="720px"></div><h2 class="anchor anchorWithStickyNavbar_loeA" id="-new-features">🎉 New Features<!-- --><a href="https://answer.apache.org/zh-CN/blog/apache-answer-1.4.5-release#-new-features" class="hash-link" aria-label="🎉 New Features的直接链接" title="🎉 New Features的直接链接">​</a></h2>
 <!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="flexible-question-layouts">Flexible Question Layouts<!-- --><a href="https://answer.apache.org/zh-CN/blog/apache-answer-1.4.5-release#flexible-question-layouts" class="hash-link" aria-label="Flexible Question Layouts的直接链接" title="Flexible Question Layouts的直接链接">​</a></h3>
 <!-- --><p>Add view layout options:</p>
 <!-- --><ul>
@@ -114,7 +429,7 @@
             <guid>https://answer.apache.org/zh-CN/blog/apache-answer-1.4.2-release</guid>
             <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Making it simple to share relevant documents and improve the quality of your Q&A.]]></description>
-            <content:encoded><![CDATA[<div class="mb-4"><img decoding="async" loading="lazy" src="https://answer.apache.org/zh-CN/assets/images/2025-02-10-cover@4x-594a2b981c1480cde0d5079df2e435e9.png" class="rounded img_RAU7" width="1280px" height="720px"></div><h2 class="anchor anchorWithStickyNavbar_loeA" id="-new-features">🎉 New Features<!-- --><a href="https://answer.apache.org/zh-CN/blog/apache-answer-1.4.2-release#-new-features" class="hash-link" aria-label="🎉 New Features的直接链接" title="🎉 New Features的直接链接">​</a></h2>
+            <content:encoded><![CDATA[<div class="mb-4"><img decoding="async" loading="lazy" src="https://answer.apache.org/zh-CN/assets/images/2025-02-10-cover@4x-b39497eb3a09abc4db1c3a46a8845f02.png" class="rounded img_RAU7" width="1280px" height="720px"></div><h2 class="anchor anchorWithStickyNavbar_loeA" id="-new-features">🎉 New Features<!-- --><a href="https://answer.apache.org/zh-CN/blog/apache-answer-1.4.2-release#-new-features" class="hash-link" aria-label="🎉 New Features的直接链接" title="🎉 New Features的直接链接">​</a></h2>
 <!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="attachment-upload">Attachment Upload<!-- --><a href="https://answer.apache.org/zh-CN/blog/apache-answer-1.4.2-release#attachment-upload" class="hash-link" aria-label="Attachment Upload的直接链接" title="Attachment Upload的直接链接">​</a></h3>
 <!-- --><p>We’re excited to introduce the long-awaited attachment-upload feature! Now you can easily share relevant files with your questions.</p>
 <!-- --><p><img decoding="async" loading="lazy" alt="attachment-upload.png" src="https://answer.apache.org/zh-CN/assets/images/attachment-upload-2fac29f9349c5b9b430cc91f1dd9e924.png" width="1436" height="1082" class="img_RAU7"></p>
@@ -681,158 +996,6 @@ Customer support: Provide essential context for support tickets.</p>
 <!-- --><p><a href="https://github.com/kevingil" target="_blank" rel="noopener noreferrer">kevin</a>, <!-- --><a href="https://github.com/kumfo" target="_blank" rel="noopener noreferrer">kumfo</a>, <!-- --><a href="https://github.com/hgaol" target="_blank" rel="noopener noreferrer">hgaol</a>, <!-- --><a href="https://github.com/robinv8" target="_blank" rel="noopener noreferrer">robin</a>, <!-- --><a href="https://github.com/LinkinStars" target="_blank" rel="noopener noreferrer">LinkinStars</a>, <!-- --><a href="https://github.com/shuashuai" target="_blank" rel="noopener noreferrer">dashuai</a>, and <!-- --><a href="https://github.com/sy-records" target="_blank" rel="noopener noreferrer">Luffy</a>.<!-- --></p>
 <!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="join-the-conversation">Join the Conversation<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.3.6-release#join-the-conversation" class="hash-link" aria-label="Join the Conversation的直接链接" title="Join the Conversation的直接链接">​</a></h2>
 <!-- --><p>We believe that every <!-- --><a href="https://answer.apache.org/community/contributing#get-involved" target="_blank" rel="noopener noreferrer">contribution</a> makes a real difference, leaving your feedback to us is a way to contribute. Reach us at our <!-- --><a href="https://meta.answer.dev/" target="_blank" rel="noopener noreferrer">Q&amp;A community</a>, <!-- --><a href="https://x.com/AnswerDev" target="_blank" rel="noopener noreferrer">social media</a>, and <!-- --><a href="https://discord.gg/a6PZZbfnFx" target="_blank" rel="noopener noreferrer">Discord</a>.<!-- --></p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Reflection and Our Tips for Your Next Open-Source Events]]></title>
-            <link>https://answer.apache.org/zh-CN/blog/reflection-and-tips-for-your-next-open-source-events</link>
-            <guid>https://answer.apache.org/zh-CN/blog/reflection-and-tips-for-your-next-open-source-events</guid>
-            <pubDate>Wed, 14 Aug 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Discover how we showcased our open-source project on the world stage, and tips for your next big event.]]></description>
-            <content:encoded><![CDATA[<div class="mb-4"><img decoding="async" loading="lazy" src="https://answer.apache.org/zh-CN/assets/images/2024-08-14-cover@4x-b5d4e35b8b8bf121a56f09fe315e17a9.jpeg" class="rounded img_RAU7" width="1280px" height="720px"></div><p>July was a month filled with community and connection. We had the privilege of participating in two incredible events: <!-- --><a href="https://www.wearedevelopers.com/world-congress" target="_blank" rel="noopener noreferrer">WeAreDev World Congress 2024</a> and <!-- --><a href="https://asia.communityovercode.org/" target="_blank" rel="noopener noreferrer">CommunityOverCode Asia 2024</a>.<!-- --></p>
-<!-- --><p>We were grateful to be given these chances. In this blog, we would love to share tips here for more open-source projects showcasing themselves on the stage next time.</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="wearedev-world-congress-github-open-source-spotlight">WeAreDev World Congress GitHub Open Source Spotlight<!-- --><a href="https://answer.apache.org/zh-CN/blog/reflection-and-tips-for-your-next-open-source-events#wearedev-world-congress-github-open-source-spotlight" class="hash-link" aria-label="WeAreDev World Congress GitHub Open Source Spotlight的直接链接" title="WeAreDev World Congress GitHub Open Source Spotlight的直接链接">​</a></h2>
-<!-- --><p>As world’s leading event for developers and tech decision-makers, WeAreDev World Congress welcomes more than 15,000 developers and over 500 speakers sharing their expertise and visions of future trends in modern software development.</p>
-<!-- --><p><img decoding="async" loading="lazy" alt="Alt text" src="https://answer.apache.org/zh-CN/assets/images/WeAreDev%20World%20Congress-e57f3014a31be2e9ef316294a257e3c8.JPG" width="2400" height="1600" class="img_RAU7"></p>
-<!-- --><p>This year, GitHub Open Source Spotlight was a part of this congress. We submitted our application and were chosen and offered a space at GitHub booth. It was an unbelievable opportunity to showcase Apache Answer to a global audience of over 15,000 developers and tech leaders. Not to mention, with other brilliant open-source projects.</p>
-<!-- --><p><img decoding="async" loading="lazy" alt="Alt text" src="https://answer.apache.org/zh-CN/assets/images/GitHub%20Open%20Source%20Spotlight%20Area-d7f911a530697bf26ce74e03106e7248.jpeg" width="3761" height="2821" class="img_RAU7"></p>
-<!-- --><p>The event provided a valuable opportunity to showcase Answer to potential users, contributors, and industry experts. We gained valuable insights and feedback that will help us shape Answer in a better way. Guess what, we even met several users from Germany!</p>
-<!-- --><p><img decoding="async" loading="lazy" alt="Alt text" src="https://answer.apache.org/zh-CN/assets/images/Answer%20at%20GitHub%20Open%20Source%20Spotlight-fe66b581542f71ab729d175fb9273ca9.jpeg" width="4032" height="3024" class="img_RAU7"></p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="communityovercode-asia-2024">CommunityOverCode Asia 2024<!-- --><a href="https://answer.apache.org/zh-CN/blog/reflection-and-tips-for-your-next-open-source-events#communityovercode-asia-2024" class="hash-link" aria-label="CommunityOverCode Asia 2024的直接链接" title="CommunityOverCode Asia 2024的直接链接">​</a></h2>
-<!-- --><p>CommunityOverCode (formly known as ApacheCon) is the official global conference series of The Apache Software Foundation (ASF). Since 1998 – before the ASF’s incorporation – ApacheCon has been drawing participants at all levels to explore "Tomorrow’s Technology Today" across 300+ Apache projects and their diverse communities. CommunityOverCode showcases the latest developments in Apache projects and emerging innovations through hands-on sessions, keynotes, real-world case studies, trainings, hackathons, and more.</p>
-<!-- --><p><img decoding="async" loading="lazy" alt="Alt text" src="https://answer.apache.org/zh-CN/assets/images/CoC%20Asia%202024-0cb7b9c9487a0b0afcf0794b6f5c4fe1.jpg" width="2981" height="1990" class="img_RAU7"></p>
-<!-- --><p>We had a booth and 3 speeches in keynote, incubator, and community track. We were happy to catch up with our mentors. At the booth, our committers were grateful to connect and answer questions with committers from other Apache projects.</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="tips-for-better-showcasing-your-projects-events">Tips for Better Showcasing Your Projects Events<!-- --><a href="https://answer.apache.org/zh-CN/blog/reflection-and-tips-for-your-next-open-source-events#tips-for-better-showcasing-your-projects-events" class="hash-link" aria-label="Tips for Better Showcasing Your Projects Events的直接链接" title="Tips for Better Showcasing Your Projects Events的直接链接">​</a></h2>
-<!-- --><p>Here, we would love to share some tips for more open-source projects to prepare and show their projects in their next big event.</p>
-<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="share-on-social-media">Share on Social Media<!-- --><a href="https://answer.apache.org/zh-CN/blog/reflection-and-tips-for-your-next-open-source-events#share-on-social-media" class="hash-link" aria-label="Share on Social Media的直接链接" title="Share on Social Media的直接链接">​</a></h3>
-<!-- --><p>Make the best use of social media to extend the reach, especially for global community members. Send an event preview, schedule, and invitation to your followers to drop by and connect.</p>
-<!-- --><p><img decoding="async" loading="lazy" alt="Alt text" src="https://answer.apache.org/zh-CN/assets/images/Event%20Preview-4707bd5f639751be860f59bdbc696fb1.png" width="595" height="704" class="img_RAU7"></p>
-<!-- --><p>During the event, greet, share the location, and tell them you’ll be staying in the coming days on social media. Check out how our open-source neighbor Open Feature did on day 1 of the congress.</p>
-<!-- --><p><img decoding="async" loading="lazy" alt="Alt text" src="https://answer.apache.org/zh-CN/assets/images/Open%20Feature%20Tweet-08a022c739d12a2e6a30d1c313a35f33.png" width="598" height="594" class="img_RAU7"></p>
-<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="show-your-project-with-a-demo">Show Your Project with a Demo<!-- --><a href="https://answer.apache.org/zh-CN/blog/reflection-and-tips-for-your-next-open-source-events#show-your-project-with-a-demo" class="hash-link" aria-label="Show Your Project with a Demo的直接链接" title="Show Your Project with a Demo的直接链接">​</a></h3>
-<!-- --><p>In GitHub Open Source Spotlight area, we were offered a table with space for a laptop and keyboard connected to a display.</p>
-<!-- --><p>A live demo is invaluable, and Meta Answer is the demo already. We ran <!-- --><a href="https://meta.answer.dev/" target="_blank" rel="noopener noreferrer">Meta Answer&nbsp;</a>directly for visitors to explore and we can respond to their questions or record suggestion during the process.<!-- --></p>
-<!-- --><p><img decoding="async" loading="lazy" alt="Alt text" src="https://answer.apache.org/zh-CN/assets/images/Demo%20on%20Display-a4726f8c3ac1a35b6b366383c7c70b3e.jpg" width="3874" height="2905" class="img_RAU7"></p>
-<!-- --><p>If there’s no connected display on the booth, feel free to bring a portable display, or simply run it on your laptop.</p>
-<!-- --><p><img decoding="async" loading="lazy" alt="Alt text" src="https://answer.apache.org/zh-CN/assets/images/Demo%20on%20Laptop-323592140cd8d6803434140d3032e9ce.png" width="1080" height="1440" class="img_RAU7"></p>
-<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="prepare-some-takeaways">Prepare Some Takeaways<!-- --><a href="https://answer.apache.org/zh-CN/blog/reflection-and-tips-for-your-next-open-source-events#prepare-some-takeaways" class="hash-link" aria-label="Prepare Some Takeaways的直接链接" title="Prepare Some Takeaways的直接链接">​</a></h3>
-<!-- --><p>While the demo is a live experience for the visitors, prepare takeaways for them to recall your project. Flyers and several stickers are efficient.</p>
-<!-- --><p>Flyers can provide a quick overview of your project. You can include highlights, social media accounts, and fun facts on the flyers. Stickers are a fun way to leave a lasting impression, and a way to promote your product on the surface of a laptop.</p>
-<!-- --><p><img decoding="async" loading="lazy" alt="Alt text" src="https://answer.apache.org/zh-CN/assets/images/Flyer-73faeb759d6e131d762fd3f3d2ba6eff.png" width="1080" height="1440" class="img_RAU7"></p>
-<!-- --><p>Rushing for our flight, we left a "help yourself" note with our flyers and stickers.</p>
-<!-- --><p><img decoding="async" loading="lazy" alt="Alt text" src="https://answer.apache.org/zh-CN/assets/images/Help%20Yourself-2a6448b76049bbad204656bcb3d33bf8.png" width="2048" height="1536" class="img_RAU7"></p>
-<!-- --><p>You can also make pins, badge, or mug based on the budget. In CommunityOverCode 2024, the fridge magnets at <!-- --><a href="https://greptime.com/" target="_blank" rel="noopener noreferrer">GreptimeDB</a> booth were a delight by the look and value.<!-- --></p>
-<!-- --><p><img decoding="async" loading="lazy" alt="Alt text" src="https://answer.apache.org/zh-CN/assets/images/Magnet%20from%20GreptimeDB-bf746d5d8b6f98ef72c727b300eab17b.png" width="269" height="360" class="img_RAU7"></p>
-<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="jot-down-the-notes">Jot Down the Notes<!-- --><a href="https://answer.apache.org/zh-CN/blog/reflection-and-tips-for-your-next-open-source-events#jot-down-the-notes" class="hash-link" aria-label="Jot Down the Notes的直接链接" title="Jot Down the Notes的直接链接">​</a></h3>
-<!-- --><p>Listen and record questions, suggestions, and feedback. Categorize and share it with the community. Ask community members to discuss or leave the answers, and vote for the best answers. Gradually, you will have a FAQ list for your next event so that whoever participates the conference can prepare in advance for the questions.</p>
-<!-- --><p><em>Sounds familiar, right? Answer is a great tool for this.</em></p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="see-you-on-stage">See You on Stage<!-- --><a href="https://answer.apache.org/zh-CN/blog/reflection-and-tips-for-your-next-open-source-events#see-you-on-stage" class="hash-link" aria-label="See You on Stage的直接链接" title="See You on Stage的直接链接">​</a></h2>
-<!-- --><p>We hope these tips help your open-source project shine at the next big event. Remember, it's all about making meaningful connections and showcasing the value you bring to the developer community.</p>
-<!-- --><p>Participating in these events was unforgettable for our team, and we're excited to continue contributing to the open-source ecosystem.</p>
-<!-- --><p>Please don't hesitate to reach out to us through our <!-- --><a href="https://x.com/AnswerDev" target="_blank" rel="noopener noreferrer">social media</a> or our <!-- --><a href="https://meta.answer.dev/" target="_blank" rel="noopener noreferrer">community</a>.<!-- --></p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Recap of July | Apache Answer]]></title>
-            <link>https://answer.apache.org/zh-CN/blog/answer-recap-july</link>
-            <guid>https://answer.apache.org/zh-CN/blog/answer-recap-july</guid>
-            <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[July was a month all about community love.]]></description>
-            <content:encoded><![CDATA[<div class="mb-4"><img decoding="async" loading="lazy" src="https://answer.apache.org/zh-CN/assets/images/2024-08-01-cover@4x-8001e6aec80612eed4db98919b6c1ae2.png" class="rounded img_RAU7" width="1280px" height="720px"></div><p>Another page turns, and it was a busy month with some petit milestones. We made a new release, unlock a new event, and headed to a big gathering with the community.
-Here's the recap:</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="-whatsnew">🌟 What's&nbsp;New<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-recap-july#-whatsnew" class="hash-link" aria-label="🌟 What's&nbsp;New的直接链接" title="🌟 What's&nbsp;New的直接链接">​</a></h2>
-<!-- --><p>New version released on the beginning of a month. In this update, both users and admins have more freedom to customize, express, and view in the online community with new features. Have you tried the latest 1.3.5? If not, here's the <!-- --><a href="https://medium.com/r/?url=https%3A%2F%2Fanswer.apache.org%2Fdownload" target="_blank" rel="noopener noreferrer">portal</a>.<!-- --></p>
-<!-- -->
-<!-- --><a class="mb-3 d-block" href="https://answer.apache.org/zh-CN/blog/answer-1.3.5-release/"><div class="card"><div class="p-0 d-flex align-items-center w-100 card-body"><div class="p-3" style="flex:1;max-width:calc(100% - 170px)"><h5>Apache Answer 1.3.5: Flexibility. Reaction. Extension.</h5><div class="text-truncate-3 text-secondary">Answer introduces parameterizable base paths, reactions, and embed plugin for a more thriving community.</div></div><div style="width:170px;height:170px;background-image:url(/zh-CN/assets/images/2024-07-03-cover@2x-06353edfd617a0341d07e4cff3992da2.png);background-size:cover;background-position:50% 50%" class="d-block flex-shrink-0"></div></div></div></a>
-<!-- --><p>Our PPMC member <!-- --><a href="https://github.com/shuashuai" target="_blank" rel="noopener noreferrer">shuaishuai</a> released a blog on how to package Answer plugins with a step-to-step tutorial. Easy package plugin from today.<!-- --></p>
-<!-- --><a class="mb-3 d-block" href="https://answer.apache.org/zh-CN/blog/how-to-package-and-deploy-answer-plugins"><div class="card"><div class="p-0 d-flex align-items-center w-100 card-body"><div class="p-3" style="flex:1;max-width:calc(100% - 170px)"><h5>How to Package and Deploy Answer Plugins</h5><div class="text-truncate-3 text-secondary">Follow this step-by-step guide to package plugins for your Answer.</div></div><div style="width:170px;height:170px;background-image:url(/zh-CN/assets/images/2024-07-02-cover@2x-bfd997e018376fd30a7bc8bfb950e1c1.png);background-size:cover;background-position:50% 50%" class="d-block flex-shrink-0"></div></div></div></a>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="-community">🫶 Community<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-recap-july#-community" class="hash-link" aria-label="🫶 Community的直接链接" title="🫶 Community的直接链接">​</a></h2>
-<!-- --><p>Let’s give applause to our two new committers sy-records and hgaol! Welcome on board, and you must have seen them in features, bugs fixing, and even docs. We’re so honored to have them joining the family.</p>
-<!-- --><p><img decoding="async" loading="lazy" alt="Alt text" src="https://answer.apache.org/zh-CN/assets/images/Committer%20Webpage-d8792b70e31b2b398d1a4a0632e7fb9e.webp" width="939" height="293" class="img_RAU7"></p>
-<!-- --><p>We made a debut at GitHub Open Source Spotlight at WeAreDevelopers World Congress in Berlin. It was lovely to meet other open-source friends, and guess what, we met some of our users!</p>
-<!-- --><p>Big thanks to GitHub for letting us make a big footstep and share our story to more developers.</p>
-<!-- -->
-<!-- -->
-<!-- --><div class="row"><div class="col-md-6 col-sm-12"><p><img decoding="async" loading="lazy" src="https://answer.apache.org/zh-CN/assets/images/OpenSource%20Spotlight%201-c2e9f9333e5b515960d2948d17bac45a.webp" width="1000" height="750" class="img_RAU7"></p></div><div class="col-md-6 col-sm-12"><p><img decoding="async" loading="lazy" src="https://answer.apache.org/zh-CN/assets/images/OpenSource%20Spotlight%202-9ed36d5e8e9566f1e4848479c12b2788.webp" width="1002" height="752" class="img_RAU7"></p></div></div>
-<!-- --><p>As an Apache incubating podling, how can we miss the community gathering? Yes, we also joined CommunityOverCode Asia 2024</p>
-<!-- --><p>It was a lovely 3-day event! We made our several firsts — Keynote and speeches at 2 tracks. We were lucky to be nourished by the community, and we wanted to give back by sharing our lessons and story during first Apache release and spread the ideas of various contributions.</p>
-<!-- --><div class="row"><div class="reset-p mb-4 col-md-6 col-sm-12"><p><img decoding="async" loading="lazy" alt="Alt text" src="https://answer.apache.org/zh-CN/assets/images/COC%201-68a01fb9d80a2ea28d281bb030a8c111.webp" width="1000" height="667" class="img_RAU7"></p></div><div class="reset-p mb-4 col-md-6 col-sm-12"><p><img decoding="async" loading="lazy" alt="Alt text" src="https://answer.apache.org/zh-CN/assets/images/COC%202-11a1bd5eaf90a5263e065ff9fbd51c84.webp" width="1002" height="668" class="img_RAU7"></p></div><div class="reset-p mb-4 col-md-6 col-sm-12"><p><img decoding="async" loading="lazy" alt="Alt text" src="https://answer.apache.org/zh-CN/assets/images/COC3-6a9adcf235848729332d970dc52876b9.webp" width="1002" height="667" class="img_RAU7"></p></div><div class="reset-p mb-4 col-md-6 col-sm-12"><p><img decoding="async" loading="lazy" alt="Alt text" src="https://answer.apache.org/zh-CN/assets/images/COC%204-1992bf03c01f35163bd6a6f7d08cb418.webp" width="1000" height="666" class="img_RAU7"></p></div></div>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="-cheers-to-contributors">🙌 Cheers to Contributors<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-recap-july#-cheers-to-contributors" class="hash-link" aria-label="🙌 Cheers to Contributors的直接链接" title="🙌 Cheers to Contributors的直接链接">​</a></h2>
-<!-- --><p>Meet and give your applause to the secret heroes!</p>
-<!-- --><p>Features architect:&nbsp;<!-- --><a href="https://github.com/hgaol" target="_blank" rel="noopener noreferrer">hgaol</a>,&nbsp;<!-- --><a href="https://github.com/LinkinStars" target="_blank" rel="noopener noreferrer">LinkinStars</a>,&nbsp;<!-- --><a href="https://github.com/shuashuai" target="_blank" rel="noopener noreferrer">shuaishuai</a><br>
-<!-- -->Improvement maker:&nbsp;<!-- --><a href="https://github.com/sy-records" target="_blank" rel="noopener noreferrer">sy-records</a><br>
-<!-- -->Bug fixer:&nbsp;<!-- --><a href="https://github.com/byerer" target="_blank" rel="noopener noreferrer">byerer</a>,&nbsp;<!-- --><a href="https://github.com/sy-records" target="_blank" rel="noopener noreferrer">sy-records</a>,&nbsp;<!-- --><a href="https://github.com/robinv8" target="_blank" rel="noopener noreferrer">robinv8</a>,&nbsp;<!-- --><a href="https://github.com/nayanthulkar28" target="_blank" rel="noopener noreferrer">nayanthulkar28</a>,&nbsp;<!-- --><a href="https://github.com/hgaol" target="_blank" rel="noopener noreferrer">hgaol</a>, <!-- --><a href="https://github.com/nayanthulkar28" target="_blank" rel="noopener noreferrer">nayanthulkar28</a>, <!-- --><a href="https://github.com/hgaol" target="_blank" rel="noopener noreferrer">hgaol</a></p>
-<!-- --><p>Cheers for the time and effort.</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="️-coming-up-next">✌️ Coming up Next<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-recap-july#%EF%B8%8F-coming-up-next" class="hash-link" aria-label="✌️ Coming up Next的直接链接" title="✌️ Coming up Next的直接链接">​</a></h2>
-<!-- --><p>New version 1.3.6 is on the way, waiting for the votes.
-Interested in helping us with the release? Give it a go following the post below.</p>
-<!-- --><p><a href="https://answer.apache.org/community/how-to-release" target="_blank" rel="noopener noreferrer">https://answer.apache.org/community/how-to-release</a></p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="-share-your-ideas">🤲 Share Your Ideas<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-recap-july#-share-your-ideas" class="hash-link" aria-label="🤲 Share Your Ideas的直接链接" title="🤲 Share Your Ideas的直接链接">​</a></h2>
-<!-- --><p>We love ideas, especially from you. Tell us how you like the project, and</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Apache Answer 邀你共赴 CommunityOverCode Asia 2024]]></title>
-            <link>https://answer.apache.org/zh-CN/blog/apache-answer-coc-asia-2024</link>
-            <guid>https://answer.apache.org/zh-CN/blog/apache-answer-coc-asia-2024</guid>
-            <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Apache Answer 将亮相主论坛和两个分会场，杭州见。]]></description>
-            <content:encoded><![CDATA[<div class="mb-4"><img decoding="async" loading="lazy" src="https://answer.apache.org/zh-CN/assets/images/2024-07-11-cover@4x-e821c9cb468575f1936d15c9cb528ec3.png" class="rounded img_RAU7" width="1280px" height="720px"></div><p>CommunityOverCode Asia 2024 将于 7 月 26 日至 28 日在杭州举行。</p>
-<!-- --><p>此次会议共设有 1 个主论坛和 15 个分论坛，来自不同领域的 150 余位专家导师将和大家分享 Apache 项目的新突破和 Apache 孵化器中的新创新，以及开源开发和以 “The Apache Way” 领导社区驱动的项目，共同探讨 Apache 的运作生态、Apache 软件的商业模式、开源的法律问题以及其他许多主题的内容。</p>
-<!-- --><p>今年，Apache Answer 将在两个分会场和主论坛和大家见面，分享关于我们进入孵化器后的收获，你还将了解到如何用 Answer 打造一个活跃的社区，以及非开发人员如何参与到开源贡献中。 此外，我们也欢迎你来到我们的展台和项目的 Committer 交流互动，了解更多 Answer 相关的内容。</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="主题分享">主题分享<!-- --><a href="https://answer.apache.org/zh-CN/blog/apache-answer-coc-asia-2024#%E4%B8%BB%E9%A2%98%E5%88%86%E4%BA%AB" class="hash-link" aria-label="主题分享的直接链接" title="主题分享的直接链接">​</a></h2>
-<!-- --><p>去年，Apache Answer 通过投票，成功进入孵化器。在过去的一段时间里，我们收获了来自 Apache 社区不同方面的支持，包括但不限于文档、代码提交、和线下分享。
-Apache Answer 一直秉持开放沟通和协作精神，希望通过今年的 CommunityOverCode Asia 大会，能够将我们的经历和思考回馈给社区。</p>
-<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="incubator-专题">Incubator 专题<!-- --><a href="https://answer.apache.org/zh-CN/blog/apache-answer-coc-asia-2024#incubator-%E4%B8%93%E9%A2%98" class="hash-link" aria-label="Incubator 专题的直接链接" title="Incubator 专题的直接链接">​</a></h3>
-<!-- --><p>如果你希望了解一个开源项目是如何从零开始，一步步成长为全球开发者共同参与的杰作，亦或是想知道当一个项目被 Apache 软件基金会所接纳所需要经历哪些挑战和准备，你可以前往 Incubator 专题！LinkinStar 将与你分享 Apache Answer 的成长之路，带你了解 Answer 从开源到进入孵化器，再到首次发布 Apache 版本所面临的挑战和收获的成长。</p>
-<!-- --><h4 class="anchor anchorWithStickyNavbar_loeA" id="apache-answer-的首个-apache-版本发布之路">Apache Answer 的首个 Apache 版本发布之路<!-- --><a href="https://answer.apache.org/zh-CN/blog/apache-answer-coc-asia-2024#apache-answer-%E7%9A%84%E9%A6%96%E4%B8%AA-apache-%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83%E4%B9%8B%E8%B7%AF" class="hash-link" aria-label="Apache Answer 的首个 Apache 版本发布之路的直接链接" title="Apache Answer 的首个 Apache 版本发布之路的直接链接">​</a></h4>
-<!-- --><p>讲者：LinkinStar｜Go 语言后端开发工程师，Apache Answer PPMC 成员</p>
-<!-- --><p>你将了解到 Answer 从开源到进入孵化器，再到首次发布 Apache 版本的过程。通过我的演讲，你可以了解开源是如何重塑我的认知，我们为 Answer 进入 Apache 软件基金会孵化器所做的准备，以及我们如何解决在发布首个 Apache 版本过程中所遇到的困难。</p>
-<!-- --><hr>
-<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="community-专题">Community 专题<!-- --><a href="https://answer.apache.org/zh-CN/blog/apache-answer-coc-asia-2024#community-%E4%B8%93%E9%A2%98" class="hash-link" aria-label="Community 专题的直接链接" title="Community 专题的直接链接">​</a></h3>
-<!-- --><p>社区每天都在产生大量的知识和信息，如何有效地组织、分享并利用这些知识？如何调动更多用户积极地参与？欢迎你前往 Community 专题！Anne 将与你分享 Answer 有趣且有效的运营方式，以及如何让 Answer 成为你构建活跃社区的利器。</p>
-<!-- --><h4 class="anchor anchorWithStickyNavbar_loeA" id="通过-apache-answer-提升你和社区的互动">通过 Apache Answer 提升你和社区的互动<!-- --><a href="https://answer.apache.org/zh-CN/blog/apache-answer-coc-asia-2024#%E9%80%9A%E8%BF%87-apache-answer-%E6%8F%90%E5%8D%87%E4%BD%A0%E5%92%8C%E7%A4%BE%E5%8C%BA%E7%9A%84%E4%BA%92%E5%8A%A8" class="hash-link" aria-label="通过 Apache Answer 提升你和社区的互动的直接链接" title="通过 Apache Answer 提升你和社区的互动的直接链接">​</a></h4>
-<!-- --><p>讲者：Anne Zhu ｜ 市场营销，Apache Answer PPMC 成员</p>
-<!-- --><p>Apache Answer 是一款开源的问答平台软件。我将向你展示 Answer 的功能，我们如何设立激励制度，并如何以有趣的方式调动用户的积极性。除此之外，我们还将分享该项目诞生的灵感，以及你可以如何利用 Apache Answer 构建一个活跃的线上社区。</p>
-<!-- --><hr>
-<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="keynote-专题">Keynote 专题<!-- --><a href="https://answer.apache.org/zh-CN/blog/apache-answer-coc-asia-2024#keynote-%E4%B8%93%E9%A2%98" class="hash-link" aria-label="Keynote 专题的直接链接" title="Keynote 专题的直接链接">​</a></h3>
-<!-- --><p>在硬核技术含量拉满的 Keynote 专题中，你或许想知道非技术人如何进行社区贡献，如何收获个人成长，并了解社区建设的实践案例，那么，请不要错过 Nadia 和 Anne 的演讲！</p>
-<!-- --><h3 class="anchor anchorWithStickyNavbar_loeA" id="非技术人在开源社区的成长">非技术人在开源社区的成长<!-- --><a href="https://answer.apache.org/zh-CN/blog/apache-answer-coc-asia-2024#%E9%9D%9E%E6%8A%80%E6%9C%AF%E4%BA%BA%E5%9C%A8%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E7%9A%84%E6%88%90%E9%95%BF" class="hash-link" aria-label="非技术人在开源社区的成长的直接链接" title="非技术人在开源社区的成长的直接链接">​</a></h3>
-<!-- --><p>讲者：Nadia Jiang 和 Anne Zhu ｜ Apache Answer PPMC 成员</p>
-<!-- --><p>在这个演讲中，Nadia 和 Anne 将从非技术开发的视角，介绍在开源社区中有哪些非代码贡献的机会。我们将探讨文档编写、社区管理、市场营销等各种对社区产生重要影响的角色和活动。此外，我们还将分享非技术人在开源世界中的职业发展路径，展示这些角色的职业道路和成长潜力。</p>
-<!-- --><hr>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="开源集市等你来">开源集市等你来<!-- --><a href="https://answer.apache.org/zh-CN/blog/apache-answer-coc-asia-2024#%E5%BC%80%E6%BA%90%E9%9B%86%E5%B8%82%E7%AD%89%E4%BD%A0%E6%9D%A5" class="hash-link" aria-label="开源集市等你来的直接链接" title="开源集市等你来的直接链接">​</a></h2>
-<!-- --><p>无论你刚听说 Answer，还是资深的使用者，我们都非常欢迎你来到我们的展位和我们交流互动。我们的 Committer 会在展位解答你的疑问，倾听你的使用反馈。</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="即刻报名">即刻报名<!-- --><a href="https://answer.apache.org/zh-CN/blog/apache-answer-coc-asia-2024#%E5%8D%B3%E5%88%BB%E6%8A%A5%E5%90%8D" class="hash-link" aria-label="即刻报名的直接链接" title="即刻报名的直接链接">​</a></h2>
-<!-- --><p>感兴趣的各位开发者，可以点击<!-- --><a href="https://www.bagevent.com/event/8766402" target="_blank" rel="noopener noreferrer">此处</a>注册参会。<!-- --></p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Apache Answer 1.3.5: Flexibility. Reaction. Extension.]]></title>
-            <link>https://answer.apache.org/zh-CN/blog/answer-1.3.5-release</link>
-            <guid>https://answer.apache.org/zh-CN/blog/answer-1.3.5-release</guid>
-            <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Answer introduces parameterizable base paths, reactions, and embed plugin for a more thriving community.]]></description>
-            <content:encoded><![CDATA[<div class="mb-4"><img decoding="async" loading="lazy" src="https://answer.apache.org/zh-CN/assets/images/2024-07-03-cover@4x-34f38d6b4ffc25325ee4094ab9c448e9.png" class="rounded img_RAU7" width="1280px" height="720px"></div><p>What a nice way to start this July strong with the new version! This is perhaps our very first time to release a new version in the very beginning of a month.</p>
-<!-- --><p>In this update, both users and admins have more freedom to customize, express, and view in the online community with new features. Find out how and why.</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="customize-urls-with-base-path-parametrization">Customize URLs with Base Path Parametrization<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.3.5-release#customize-urls-with-base-path-parametrization" class="hash-link" aria-label="Customize URLs with Base Path Parametrization的直接链接" title="Customize URLs with Base Path Parametrization的直接链接">​</a></h2>
-<!-- --><p>Time to personalize your Answer URL. You can now handle Answer website address by adding tags to URLs. It’s a great improvement for both the flexibility and ease of deployment for Answer.</p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="express-your-attitude-with-reactions">Express Your Attitude with Reactions<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.3.5-release#express-your-attitude-with-reactions" class="hash-link" aria-label="Express Your Attitude with Reactions的直接链接" title="Express Your Attitude with Reactions的直接链接">​</a></h2>
-<!-- --><p>When you come across a question that aligns perfectly with your confusion, or a brilliant answer that wipes away your doubts, simply show your appreciation with the latest reaction.</p>
-<!-- --><p><img decoding="async" loading="lazy" alt="Add Reaction in Apache Answer" src="https://answer.apache.org/zh-CN/assets/images/Add%20Reactions-7f4a180b3bb60c2b82da31e6e7b343ab.gif" width="1200" height="428" class="img_RAU7"></p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="better-content-showcase">Better Content Showcase<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.3.5-release#better-content-showcase" class="hash-link" aria-label="Better Content Showcase的直接链接" title="Better Content Showcase的直接链接">​</a></h2>
-<!-- --><p>We heard your <!-- --><a href="https://github.com/apache/answer-plugins/issues/84" target="_blank" rel="noopener noreferrer">call</a>, and here we are. Now, knowledge sharing is at the next level with a new embed plugin. It helps to refer to relevant article, tutorials, coding snippets, etc.<!-- --></p>
-<!-- --><p>After activate the <!-- --><a href="https://github.com/apache/answer-plugins/tree/main/embed-basic" target="_blank" rel="noopener noreferrer">embed plugin</a>, you can customize the title with a brief summary of the content, and then paste the URL of the content you are adding.<!-- --><br>
-<!-- --><img decoding="async" loading="lazy" alt="Use Embed Plugin" src="https://answer.apache.org/zh-CN/assets/images/Embed%20Plugin-0066890653f928f4e9d7f265a7c50806.gif" width="1200" height="818" class="img_RAU7"></p>
-<!-- --><p>It looks like this. Better than multiple cold links, right?<!-- --><br>
-<!-- --><img decoding="async" loading="lazy" alt="Embed Preview in Apache Answer" src="https://answer.apache.org/zh-CN/assets/images/Embed%20Look-ba88b59520ca7ca4ffb356217324442b.png" width="1596" height="652" class="img_RAU7"></p>
-<!-- --><p><em>Click <!-- --><a href="https://answer.apache.org/docs/plugins" target="_blank" rel="noopener noreferrer">here</a> for using plugin tutorial.<!-- --></em></p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="tweaks-and-fixes">Tweaks and Fixes<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.3.5-release#tweaks-and-fixes" class="hash-link" aria-label="Tweaks and Fixes的直接链接" title="Tweaks and Fixes的直接链接">​</a></h2>
-<!-- --><p>We’ve made changes to the Active list to ensure it shows current and engaging posts. Old questions will be moved out automatically that are either created 180 days ago, or not received a new answer in the past 90 days. Now, your Answer always shows the most recent topics and discussion when clicking Active.</p>
-<!-- --><p>We understand the need for an easy email address update. Users can now request their email address to be updated through a simple process involving contacting an admin.</p>
-<!-- --><p><img decoding="async" loading="lazy" alt="Edit Profile" src="https://answer.apache.org/zh-CN/assets/images/Edit%20Profile-1eb84776694151dc3a80bcd53e083649.png" width="838" height="850" class="img_RAU7"></p>
-<!-- --><p>Issue such as invalid link, incomplete display, and incorrect count are all fixed! If you spot a bug, don’t hesitate to report it <!-- --><a href="https://github.com/apache/answer/issues" target="_blank" rel="noopener noreferrer">here</a>.<!-- --></p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="heres-to-you-amazing-contributors">Here’s to You. Amazing Contributors!<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.3.5-release#heres-to-you-amazing-contributors" class="hash-link" aria-label="Here’s to You. Amazing Contributors!的直接链接" title="Here’s to You. Amazing Contributors!的直接链接">​</a></h2>
-<!-- --><p>We couldn’t have done it without the dedication and hard work from the community. This release is brought to you by eight fantastic contributors, including two new faces that we are thrilled to have them here.</p>
-<!-- --><p>Cheers to <!-- --><a href="https://github.com/kumfo" target="_blank" rel="noopener noreferrer">kumfo</a>, <!-- --><a href="https://github.com/hgaol" target="_blank" rel="noopener noreferrer">hgaol</a>, <!-- --><a href="https://github.com/robinv8" target="_blank" rel="noopener noreferrer">robinv8</a>, <!-- --><a href="https://github.com/LinkinStars" target="_blank" rel="noopener noreferrer">LinkinStars</a>, <!-- --><a href="https://github.com/shuashuai" target="_blank" rel="noopener noreferrer">shuaishuai</a>, <!-- --><a href="https://github.com/sy-records" target="_blank" rel="noopener noreferrer">sy-records</a>, <!-- --><a href="https://github.com/nayanthulkar28" target="_blank" rel="noopener noreferrer">nayanthulkar28</a>, and <!-- --><a href="https://github.com/byerer" target="_blank" rel="noopener noreferrer">byerer</a>.<!-- --></p>
-<!-- --><h2 class="anchor anchorWithStickyNavbar_loeA" id="got-a-time-for-feedback">Got a Time for Feedback?<!-- --><a href="https://answer.apache.org/zh-CN/blog/answer-1.3.5-release#got-a-time-for-feedback" class="hash-link" aria-label="Got a Time for Feedback?的直接链接" title="Got a Time for Feedback?的直接链接">​</a></h2>
-<!-- --><p>We’re always open for ways to make Q&amp;A platform better. Do you have any ideas to share? Head over to our <!-- --><a href="https://sourceforge.net/projects/incubator-answer/" target="_blank" rel="noopener noreferrer">SourceForge</a> and rate us stars or leave a review. Thank you so much!<!-- --></p>]]></content:encoded>
         </item>
     </channel>
 </rss>
