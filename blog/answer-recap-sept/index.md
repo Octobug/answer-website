@@ -38,4 +38,4 @@ Shout out to to [kumfo](https://github.com/kumfo), [robinv8](https://github.com/
 Special thanks to [lehoa.strong](https://www.linkedin.com/in/hoa-le-van-3b18a922a/) for effort on translation and approval!
 
 ## 🤲 Talk to Us
-Feedback wanted! Contributors wanted! Feel free to connect with us via [X](https://x.com/AnswerDev), [Discord](mailto:dev@answer.apache.org), or in the [community](https://meta.answer.dev/).
+Feedback wanted! Contributors wanted! Feel free to connect with us via [X](https://x.com/ApacheAnswer), [Discord](mailto:dev@answer.apache.org), or in the [community](https://meta.answer.dev/).

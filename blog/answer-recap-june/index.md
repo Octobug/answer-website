@@ -29,4 +29,4 @@ Our next big release 1.3.5 entered the voting process, and it just passed the vo
 This July, Apache Answer will have 2 sessions in Community over Code Asia 2024. Our PPMC members LinkinStar and Anne will share our first Apache release and ways to engage your users.
 
 ## 🤲 We're All Here for You    
-Calling Answer enthusiasts here. Show your Answer or tell us your advice to us via [social media](https://medium.com/r/?url=https%3A%2F%2Ftwitter.com%2FAnswerDev), the [forum](https://medium.com/r/?url=https%3A%2F%2Fmeta.answer.dev%2F), or drop us an [email](https://medium.com/r/?url=http%3A%2F%2Fdev%40answer.apache.org%2F).
+Calling Answer enthusiasts here. Show your Answer or tell us your advice to us via [social media](https://medium.com/r/?url=https%3A%2F%2Fx.com%2FAnswerDev), the [forum](https://medium.com/r/?url=https%3A%2F%2Fmeta.answer.dev%2F), or drop us an [email](https://medium.com/r/?url=http%3A%2F%2Fdev%40answer.apache.org%2F).

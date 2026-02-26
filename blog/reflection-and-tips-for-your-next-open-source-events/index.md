@@ -82,4 +82,4 @@ We hope these tips help your open-source project shine at the next big event. Re
 
 Participating in these events was unforgettable for our team, and we're excited to continue contributing to the open-source ecosystem.
 
-Please don't hesitate to reach out to us through our [social media](https://x.com/AnswerDev) or our [community](https://meta.answer.dev/).
+Please don't hesitate to reach out to us through our [social media](https://x.com/ApacheAnswer) or our [community](https://meta.answer.dev/).

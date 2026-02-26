@@ -60,4 +60,4 @@ We’re so glad to have 6 contributors joining in this update, and here they are
 Who will be joining our next version release?  
 
 ## We are Listening
-We'd love your feedback!  Share your thoughts on the latest releases, suggest features for the future roadmap, or just let us know what's on your mind.  Feel free to reach out on [X](https://twitter.com/answerdev), [Discord](https://discord.gg/a6PZZbfnFx), [GitHub](https://github.com/apache/answer), [Meta Answer](https://meta.answer.dev/), or our [mailing list](https://answer.apache.org/community/support).
+We'd love your feedback!  Share your thoughts on the latest releases, suggest features for the future roadmap, or just let us know what's on your mind.  Feel free to reach out on [X](https://x.com/ApacheAnswer), [Discord](https://discord.gg/a6PZZbfnFx), [GitHub](https://github.com/apache/answer), [Meta Answer](https://meta.answer.dev/), or our [mailing list](https://answer.apache.org/community/support).

@@ -168,7 +168,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://twitter.com/answerdev',
+            href: 'https://x.com/ApacheAnswer',
             position: 'right',
             className: 'bi bi-twitter-x navbar-icon-link',
           },

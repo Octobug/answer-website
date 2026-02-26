@@ -40,7 +40,7 @@ Social media meta tag is on the stage! Let’s make your shared content appears 
 * Title: the title of current page
 * Image: the logo of the site
 
-Share it and don’t forget to mention us on [Twitter](https://x.com/AnswerDev). 
+Share it and don’t forget to mention us on [Twitter](https://x.com/ApacheAnswer). 
 
 ## Improvements and Fixed Bugs
 We’ve got new plugins for you: [Captcha Basic](https://github.com/apache/answer-plugins/tree/main/captcha-basic) and [Captcha Google V2](https://github.com/apache/answer-plugins/tree/main/captcha-google-v2). These two plugins enable or disable the CAPTCHA feature, allowing users to implement their CAPTCHA plugins, such as Google reCAPTCHA.
@@ -56,4 +56,4 @@ This version is proudly presented by 8 contributors from the community, and they
 
 
 ## We Love Feedback
-We'd love your feedback! Share your thoughts on the latest releases, suggest features you need, or just send us messages. Please don't hesitate to reach out on [X](https://twitter.com/answerdev), [Discord](https://discord.gg/a6PZZbfnFx), [GitHub](https://github.com/apache/answer), [Meta Answer](https://meta.answer.dev/), or our [mailing list](https://answer.apache.org/community/support).
+We'd love your feedback! Share your thoughts on the latest releases, suggest features you need, or just send us messages. Please don't hesitate to reach out on [X](https://x.com/ApacheAnswer), [Discord](https://discord.gg/a6PZZbfnFx), [GitHub](https://github.com/apache/answer), [Meta Answer](https://meta.answer.dev/), or our [mailing list](https://answer.apache.org/community/support).

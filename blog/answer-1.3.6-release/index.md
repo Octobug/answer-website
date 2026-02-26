@@ -62,4 +62,4 @@ We owe a huge debt of gratitude to the feature constructor, improvement maker, a
 [kevin](https://github.com/kevingil), [kumfo](https://github.com/kumfo), [hgaol](https://github.com/hgaol), [robin](https://github.com/robinv8), [LinkinStars](https://github.com/LinkinStars), [dashuai](https://github.com/shuashuai), and [Luffy](https://github.com/sy-records). 
 
 ## Join the Conversation
-We believe that every [contribution](https://answer.apache.org/community/contributing#get-involved) makes a real difference, leaving your feedback to us is a way to contribute. Reach us at our [Q&A community](https://meta.answer.dev/), [social media](https://x.com/AnswerDev), and [Discord](https://discord.gg/a6PZZbfnFx).
+We believe that every [contribution](https://answer.apache.org/community/contributing#get-involved) makes a real difference, leaving your feedback to us is a way to contribute. Reach us at our [Q&A community](https://meta.answer.dev/), [social media](https://x.com/ApacheAnswer), and [Discord](https://discord.gg/a6PZZbfnFx).

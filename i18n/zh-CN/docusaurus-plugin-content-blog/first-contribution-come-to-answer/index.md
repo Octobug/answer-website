@@ -51,7 +51,7 @@ No matter big or small, every contribution makes a difference. Here’s the [coo
 ## We Got Your Back
 Need help? Our community is always here for you!
 
-You can always post your questions on [X](https://twitter.com/answerdev), [Discord](https://discord.gg/a6PZZbfnFx), [GitHub](https://github.com/apache/answer), or [Answer Meta](https://meta.answer.dev/). We will reply to you as soon as we can, but please keep patience since we’re a small team at the moment.
+You can always post your questions on [X](https://x.com/ApacheAnswer), [Discord](https://discord.gg/a6PZZbfnFx), [GitHub](https://github.com/apache/answer), or [Answer Meta](https://meta.answer.dev/). We will reply to you as soon as we can, but please keep patience since we’re a small team at the moment.
 
 Our journey is just beginning, and we’re excited to continue pushing the boundaries with you. Join us ;)
 
